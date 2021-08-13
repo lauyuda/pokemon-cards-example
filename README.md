@@ -1,3 +1,8 @@
+# How it looks like
+
+## Guide to components of the code
+<img src="https://github.com/lauyuda/pokemon/blob/main/image/pokemon.jpeg?raw=true" width=70% height=70%>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
