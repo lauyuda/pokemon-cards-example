@@ -1,7 +1,5 @@
 # How it looks like
-
-## Guide to components of the code
-<img src="https://github.com/lauyuda/pokemon/blob/main/image/pokemon.jpeg?raw=true" width=70% height=70%>
+<img src="https://github.com/lauyuda/pokemon/blob/main/image/pokemon.jpeg?raw=true">
 
 # Getting Started with Create React App
 
